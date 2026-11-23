@@ -42,3 +42,5 @@ def test_password_with_space_is_invalid():
   
 def test_password_with_special_character_is_valid():
 	assert is_valid_password("Abcdef!2") is True
+def test_password_with_tab_is_invalid():
+	assert is_valid_password("Abcdef\t12") is False
