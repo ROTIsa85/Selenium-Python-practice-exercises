@@ -18,6 +18,37 @@ I am currently expanding my skills into web application test automation using Py
 - GitHub – Source code management
 - GitHub Copilot and Claude – AI-assisted coding and debugging
 
+## Automation Exercises
+
+### Browser Navigation
+- Browser initialization and navigation
+
+### Login and Authentication
+- Login success and failure scenarios
+- Login validation
+- Password validation
+
+### Waits and Synchronization
+- Implicit and explicit wait practice
+- Handling page loading and element availability
+
+### Web Element Interaction
+- Checkboxes
+- Radio buttons
+- Dropdown menus
+
+### Browser Windows
+- Working with multiple browser windows
+
+### Pytest Automation
+- Login tests using Pytest
+- Password validation tests
+
+### Additional Exercises
+- Page title verification
+- Text box interaction
+- Logout functionality
+
 ## What This Repository Demonstrates
 
 - Opening and navigating web pages using Selenium WebDriver
